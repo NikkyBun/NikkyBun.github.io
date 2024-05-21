@@ -5,13 +5,17 @@ html {
 }
 hr{
     color: blueviolet;
+
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 p{
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    width: 70%;
 }
 
 body {
@@ -23,8 +27,6 @@ body {
     padding-right: 12%;
     padding-top: 15%;
     padding-bottom: 15%;
-    text-align: left;
-    width: 70%;
 }
 
 .bg-image {
